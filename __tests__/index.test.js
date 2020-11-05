@@ -2,10 +2,11 @@ import functions from '../index';
 // import{originalFlavors}from '../index';
 let originalFlavors;
 beforeEach(()=>{
-    originalFlavors = ["Banana Nut Fudge",
+    originalFlavors = [
+    "Banana Nut Fudge",
     "Black Walnut",
     "Burgundy Cherry",
-   "Butterscotch Ribbon",
+    "Butterscotch Ribbon",
     "Cherry Macaron",
     "Chocolate",
     "Chocolate Almond",
